@@ -1,0 +1,156 @@
+/************The Index CSS **************/
+/*************************** Tag Selectors **********************/
+body {
+  margin: 0;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  position: fixed;
+  padding: 20px;
+  font-size: 1.8rem;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.nav-bar {
+  color: black;
+  font-family: 'Oswald', sans-serif;
+  text-decoration: none;
+  line-height: 1.75;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: dashed;
+  width: 3%;
+  color: #FBBDF4;
+  border-width: 7px;
+}
+
+/********** Class ********/
+/**********  Container One ************/
+.container-one {
+  margin: 0;
+  background-color: black;
+}
+
+.index-title {
+  color: #C2009A;
+  font-size: 5rem;
+  font-family: 'Oswald', sans-serif;
+  padding-bottom: 30px;
+}
+
+.img-lime {
+  width: 100%;
+}
+
+.TGL-web-banner {
+  width: 45%;
+}
+
+.spotify-badge {
+  display: block;
+  margin: auto;
+  width: 15%;
+  padding-top: 80px;
+}
+
+/**********  Container Two ************/
+.container-two {}
+
+.welcome-h2 {
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.about-paragraph {
+  text-align: justify;
+  text-align-last: center;
+  width: 45%;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  line-height: 1.75;
+}
+
+/**********  Container Three ************/
+.container-three {}
+
+.take-the-lime-light-h2 {
+  padding-top: 40px;
+}
+
+.take-the-lime-light-paragraph {
+  text-align: justify;
+  text-align-last: center;
+  width: 45%;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  line-height: 1.75;
+}
+
+.Contact-button {
+  padding-top: 30px;
+  padding-bottom: 80px;
+}
+
+.BUTTON_JEO {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  color: #FFAFF4;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 200;
+  padding: 8px;
+  background-color: #C2009A;
+  border: solid #F242DE 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  width: 30%;
+}
+
+.BUTTON_JEO:hover {
+  background: #F898ED;
+  border: solid #FBBDF4 1px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+/**********  Container Four ************/
+.container-four {
+  background-color: black;
+  padding: 30px;
+}
+
+.footer-link {
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+  margin: auto 20px;
+  color: grey;
+}
+
+.copyright {
+  padding-top: 10px;
+  color: grey;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.75rem;
+}
